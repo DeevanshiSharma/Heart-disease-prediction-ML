@@ -6,5 +6,5 @@ Datast link - https://drive.google.com/file/d/1sX9mdej4fhC_jGgMvBHsYa8lab2e17EP/
 
 I used this Dataset to train a Logistic regression model which can predict patients that are most likely to suffer from a heart disease in the near future using the features given.
 
-Packages used - Pandas, Numpy, and Sklearn.
+Packages used - Pandas, Numpy, and Scikit Learn.
 
