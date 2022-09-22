@@ -1,4 +1,4 @@
-# Heart-disease-prediction- using - ML | logistic-regression
+# Heart-Disease-Prediction-using-ML | logistic-regression
 
 Context - Day by day the cases of heart diseases are increasing at a rapid rate and it’s very Important and concerning to predict any such diseases beforehand.
 
