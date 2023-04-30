@@ -50,7 +50,10 @@ METADATA:
 
 APPROACH:
 
-I used this Dataset to train a Logistic regression model which can predict patients that are most likely to suffer from a heart disease in the near future using the features given.
+- Load the dataset using Pandas.
+- Split it into training and testing data using the train_test_split function from scikit-learn, and train a logistic regression model on the training data.
+- Evaluate the accuracy of model on both the training and testing data.
+- Finally, design a system so that the model can be used to predict whether a new input data point (representing information about a person's health) indicates whether the person has heart disease or not. The prediction result is printed to the console along with a message indicating whether the person is healthy or has heart disease.
 
 PACKAGES USED:
 
