@@ -44,6 +44,7 @@ Metadata:
 
 14-target: 0 = no disease, 1 = disease
 
+
 Approach:
 
 I used this Dataset to train a Logistic regression model which can predict patients that are most likely to suffer from a heart disease in the near future using the features given.
