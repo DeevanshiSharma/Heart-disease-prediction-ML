@@ -1,10 +1,14 @@
 # Heart-Disease-Prediction-using-ML | logistic-regression
 
-Context - Day by day the cases of heart diseases are increasing at a rapid rate and it’s very Important and concerning to predict any such diseases beforehand.
+CONTEXT:
 
-Datast link - https://drive.google.com/file/d/1sX9mdej4fhC_jGgMvBHsYa8lab2e17EP/view
+- Day by day the cases of heart diseases are increasing at a rapid rate and it’s very Important and concerning to predict any such diseases beforehand.
 
-Metadata:
+DATASET:
+
+https://drive.google.com/file/d/1sX9mdej4fhC_jGgMvBHsYa8lab2e17EP/view
+
+METADATA:
 
 1-age: age in years
 
@@ -44,10 +48,11 @@ Metadata:
 
 14-target: 0 = no disease, 1 = disease
 
-
-Approach:
+APPROACH:
 
 I used this Dataset to train a Logistic regression model which can predict patients that are most likely to suffer from a heart disease in the near future using the features given.
 
-Packages used - Pandas, Numpy, and Scikit Learn.
+PACKAGES USED:
+
+Pandas, Numpy, and Scikit Learn.
 
